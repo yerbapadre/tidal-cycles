@@ -1,0 +1,5 @@
+d1 $ s "[bd [<hh, hh hh>]]*4" # speed 0.7
+
+d2 $ s "[<~ cp>]*4" # speed 0.8 # legato 0.15 # gain 0.7
+
+d3 $ s "sine" # note "gb2" # sustain 
